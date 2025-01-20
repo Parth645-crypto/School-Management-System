@@ -1,7 +1,7 @@
 # School-Management-System
 This Student Management System is a console-based application developed in C++ that allows teachers to manage student records efficiently. The program provides functionalities for adding, viewing, searching, editing, and deleting student information. It is designed to facilitate the management of student data in an educational environment.Additionally, it enables students to check their own details, providing them with easy access to their information such as ID, name, email, mobile number, and semester marks.
-Features
 
+Features:
 Teacher Login: Teachers can log in using their name and course code. The system verifies the course code against a predefined list stored in a text file.
 
 Student Management: The application allows teachers to perform various operations on student records, including:
@@ -17,6 +17,7 @@ User -Friendly Interface: The console interface is designed to be intuitive, gui
 Technologies Used:
     C++
     File I/O for data storage
+    Exception Handling
     Standard Template Library (STL) for string manipulation and data handling
 
 How to Use:
